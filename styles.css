@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    margin: 30px 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    line-height: 175%;
+    color: #776f58;
+}
+h1{
+    text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+ul.menuLink{
+    font-size: x-large;
+    color: rgb(191, 160, 122);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 175%;
+}
+
+.menuLink{
+        color: rgb(191, 160, 122);
+}
+
+.mainImage{
+    text-align: center;
+}
+
+.mainImage > img{
+    height: auto;
+    width: 364px;
+}
